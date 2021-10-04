@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = rignell.oscar@gmail.com
+	name = Oscar Rignell
